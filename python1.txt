@@ -1,0 +1,11 @@
+ Volume in drive C has no label.
+ Volume Serial Number is FADB-2F70
+
+ Directory of C:\Users\Cornel\Desktop\Python Project
+
+09/19/2022  03:55 PM    <DIR>          .
+09/19/2022  03:55 PM    <DIR>          ..
+09/19/2022  03:49 PM    <DIR>          .git
+09/19/2022  03:55 PM                 0 python1.txt
+               1 File(s)              0 bytes
+               3 Dir(s)  131,818,070,016 bytes free
